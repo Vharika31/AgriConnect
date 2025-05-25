@@ -1,1 +1,1 @@
-Go live at agriconnect-nextjs.vercel.app
+Go live at (https://agriconnect-nextjs.vercel.app/)
